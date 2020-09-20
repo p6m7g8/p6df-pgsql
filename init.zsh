@@ -1,7 +1,7 @@
 ######################################################################
 #<
 #
-# Function: p6df::modules::db::version()
+# Function: p6df::modules::pgsql::version()
 #
 #>
 ######################################################################
@@ -10,7 +10,7 @@ p6df::modules::pgsql::version() { echo "0.0.1" }
 ######################################################################
 #<
 #
-# Function: p6df::modules::db::external::brew()
+# Function: p6df::modules::pgsql::external::brew()
 #
 #>
 ######################################################################
@@ -37,7 +37,7 @@ p6df::modules::pgsql::external::brew() {
 ######################################################################
 #<
 #
-# Function: p6df::modules::db::home::symlink()
+# Function: p6df::modules::pgsql::home::symlink()
 #
 #>
 ######################################################################
@@ -46,6 +46,13 @@ p6df::modules::pgsql::home::symlink() {
   ln -sf $P6_DFZ_SRC_P6M7G8_DIR/p6df-db/share/pgsqlrc $P6_DFZ_DATA_DIR/.pgsqlrc
 }
 
+######################################################################
+#<
+#
+# Function: p6df::modules::pgsql::init()
+#
+#>
+######################################################################
 p6df::modules::pgsql::init() {
 
 }
