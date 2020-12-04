@@ -36,7 +36,7 @@ p6df::modules::pgsql::external::brew() {
   brew install check_postgres
   brew install postgis
 
-  brew cask install pgadmin4
+  brew install --cask pgadmin4
 }
 
 ######################################################################
