@@ -21,6 +21,8 @@
 [![Mergify](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/p6m7g8/p6df-pgsql/&style=flat)](https://mergify.io)
 [![codecov](https://codecov.io/gh/p6m7g8/p6df-pgsql/branch/master/graph/badge.svg?token=14Yj1fZbew)](https://codecov.io/gh/p6m7g8/p6df-pgsql)
 [![Known Vulnerabilities](https://snyk.io/test/github/p6m7g8/p6df-pgsql/badge.svg?targetFile=package.json)](https://snyk.io/test/github/p6m7g8/p6df-pgsql?targetFile=package.json)
+[![Gihub repo dependents](https://badgen.net/github/dependents-repo/p6m7g8/p6df-pgsql)](https://github.com/p6m7g8/p6df-pgsql/network/dependents?dependent_type=REPOSITORY)
+[![Gihub package dependents](https://badgen.net/github/dependents-pkg/p6m7g8/p6df-pgsql)](https://github.com/p6m7g8/p6df-pgsql/network/dependents?dependent_type=PACKAGE)
 
 ## Summary
 
