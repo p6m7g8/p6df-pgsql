@@ -38,9 +38,11 @@
 
 - [Change Log](CHANGELOG.md)
 
-### Usage
+## Usage
 
-#### init.zsh:
+### p6df-pgsql:
+
+#### p6df-pgsql/init.zsh:
 
 - p6df::modules::pgsql::deps()
 - p6df::modules::pgsql::external::brew()
