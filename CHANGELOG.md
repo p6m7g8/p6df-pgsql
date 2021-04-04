@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/p6m7g8/p6df-pgsql/compare/v2.1.0...v2.1.1) (2021-04-04)
+
+
+* **README:** updates generator ([#12](https://github.com/p6m7g8/p6df-pgsql/issues/12)) ([8667a5d](https://github.com/p6m7g8/p6df-pgsql/commit/8667a5dffd6a831b5a2ed28bbf39bcea84a4d169))
+* Coc -> .github ([0d18fa9](https://github.com/p6m7g8/p6df-pgsql/commit/0d18fa9ed26ed0883b7bae66df41ec7bb1f29cd3))
+
 ## [2.1.0](https://github.com/p6m7g8/p6df-pgsql/compare/v2.0.0...v2.1.0) (2020-12-06)
 
 
